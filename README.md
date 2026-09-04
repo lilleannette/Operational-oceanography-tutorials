@@ -1,1 +1,11 @@
-This repository contain Jypyter notebooks to be used in the SAMOS course on operational oceanography.
+Jupyter notebook tutorials for the SAMOS course on operational oceanography.
+
+## Notebooks
+
+- **`01_copernicus_marine_forecast_download.ipynb`** — Download and visualise
+  Copernicus Marine Service (CMEMS) forecast data (temperature, salinity,
+  currents) for a chosen South African coastal region.
+- **`SOMISANA_forecast_tutorial.ipynb`** — Explore SOMISANA/CROCO regional
+  ocean forecasts around South Africa, comparing different ocean nesting and
+  atmospheric forcing configurations. *(Under development — not yet fully
+  tested.)*
