@@ -8,3 +8,5 @@ Jupyter notebook tutorials for the SAMOS course on operational oceanography.
 - **`02_SOMISANA_forecast_tutorial.ipynb`** — Explore SOMISANA/CROCO regional
   ocean forecasts around South Africa, comparing different ocean nesting and
   atmospheric forcing configurations.
+- **`Searching_CMEMS.ipynb`** — Browse the Copernicus Marine catalogue
+  programmatically to find product, dataset, and variable IDs.
