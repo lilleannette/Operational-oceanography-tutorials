@@ -13,4 +13,4 @@ Jupyter notebook tutorials for the SAMOS course on operational oceanography.
 - **`03_own_region_project.ipynb`** — Skeleton for a student-built project:
   pick your own region, download a new type of operational data, and
   produce a new type of plot (Hovmöller, section, or model-vs-observation
-  scatter).
+  scatter). ⚠️ Still being edited — expect changes before Day 3.
